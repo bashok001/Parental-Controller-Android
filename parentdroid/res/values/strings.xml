@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <resources>
-    <string name="hello">Developed by Gihan Chanuka...</string>
-    <string name="app_name">Parentdroid-4.0.3</string>
-    <string name="smsreceivetopic">SMS receive from Parentdroid</string>
+    <string name="hello">Test String</string>
+    <string name="app_name">ParentSet</string>
+    <string name="smsreceivetopic">SMS receive from ParentSet</string>
     <string name="smsreceivetxt">Recieved SMS</string>
     <string name="smssendtxt">Sent SMS</string>
     <string name="mainButton">Default Button</string>
@@ -11,7 +11,7 @@
     <string name="smssendtopic">Sent sms</string>
     <string name="sendemailbutton">Send Email</string>
     <string name="mapviewtopic">Map View</string>
-    <string name="showchildlocation">Show Childroid Location</string>
+    <string name="showchildlocation">NOT WORKING..Show ChildSet Location</string>
     <string name="username">User Name</string>
     <string name="usernametext">usernametext</string>
     <string name="password">Password</string>
